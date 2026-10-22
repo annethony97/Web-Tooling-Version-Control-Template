@@ -7,7 +7,7 @@ This lab consist of 5 deliverables that will require you to fulfill a series of 
  
 
 ## Deliverable 1
-Connect to remote repository below and pull down the code to a development environment on your computer and complete the following 3 steps.
+Fork this repository and pull down the code to a development environment on your computer and complete the following 3 steps. You can find more information about forking a repository at this URL: https://github.com/instructorc/forking_instructions_and_submission
 
 1. Open the project within your preferred text editor
 
@@ -58,7 +58,7 @@ Continuing from the previous deliverable
  
 
 ## Deliverable 5
-Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. 
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Brightspace, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Brightspace that your assignment has been submitted. 
 
 
 
